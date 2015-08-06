@@ -1,0 +1,17 @@
+{
+  "name": "phalcon/gaugel",
+  "description": "This is a sample application for the Phalcon PHP Framework",
+  "version": "1.1.0",
+  "require": {
+    "php": ">=5.3.9"
+  },
+  "authors": [
+    {
+      "name": "Christian Gaugel",
+      "email": "christian.gaugel@googlemail.com"
+    }
+  ],
+  "type": "library",
+  "license": "BSD-3",
+  "homepage": "http://www.phalconphp.com"
+}
